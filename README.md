@@ -10,7 +10,9 @@ https://youtu.be/eWWQpLPqU0o
 
 ![Optical Escape Screenshot](/optical_escape.png)
 
+Simply running `python build.py` while inside of the `/game ` directory should get the job done, but it may require some troubleshooting as I haven't tested it out on non-linux platforms
+
 
 I built this project for my graduate level graphics class. It's constructed using OpenGL and SDL2 as well as some code from class written by Mike Shah which was altered and expanded upon
 
-Simply running `python build.py` while inside of the `/game ` directory should get the job done, but it may require some troubleshooting as I haven't tested it out on non-linux platforms
+I made the skybox in GIMP from an image I found online and made cube textures by blending images I found online as well.
