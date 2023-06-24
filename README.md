@@ -6,7 +6,6 @@ eliminated, the scene will reset!
 
 As the game progresses, incorrect cubes grow impatient and turn red much faster while simultaneously fading back to their starting color slower.
 
-https://youtu.be/eWWQpLPqU0o 
 
 ![Optical Escape Screenshot](/optical_escape.png)
 
